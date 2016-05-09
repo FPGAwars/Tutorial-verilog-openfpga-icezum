@@ -1,2 +1,3 @@
-# Tutorial-verilog-openfpga-icezum
-Diseño digital con FPGAs libres, en lenguaje Verilog y con la placa IceZUM Alhambra
+# Tutorial: Diseño digital con FPGAs libres en Verilog y la placa IceZUM Alhambra
+
+TODO
