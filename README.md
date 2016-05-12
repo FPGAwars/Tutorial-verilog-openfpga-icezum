@@ -16,9 +16,7 @@ _FPGA_, _Electrónica digital_, _HDL_, _Verilog_, _icestorm_, _apio_, _hardware 
 
 ## Comunidad FPGA-wars
 
-[FPGA-wars](http://fpgawars.github.io/)
-
-TODO
+Punto de reunión donde vamos publicando toda la información, noticias, novedades: [FPGA-wars](http://fpgawars.github.io/). Haz tus preguntas en el grupo de FPGAwars de google. Es un grupo público, para que todas las preguntas y respuestas queden registradas y accesibles al buscar en internet
 
 ## Autor
 
